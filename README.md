@@ -4,6 +4,15 @@ A 3D makeup, dress-up and beauty pageant game for Android. Plays offline.
 
 [Türkçe](#türkçe) · [Privacy policy](privacy.md)
 
+<p align="center">
+  <img src="screenshots/makeup.jpg" width="19%" alt="Makeup with your finger">
+  <img src="screenshots/outfit.jpg" width="19%" alt="Choosing an outfit for the theme">
+  <img src="screenshots/runway.jpg" width="19%" alt="Judges' scores on the runway">
+  <img src="screenshots/skincare.jpg" width="19%" alt="Skincare before makeup">
+  <img src="screenshots/wardrobe.jpg" width="19%" alt="Wardrobe">
+</p>
+<p align="center"><sub>Makeup · Outfit for the theme · Runway and judges · Skincare · Wardrobe</sub></p>
+
 ## Download
 
 - **Android:** coming to Google Play.
@@ -32,6 +41,8 @@ This repository holds the documentation only; the source code is not published h
 3D makyaj, giydirme ve güzellik yarışması oyunu. Android'de internetsiz oynanır.
 
 [Gizlilik politikası](privacy.md#türkçe)
+
+<p align="center"><sub>Makyaj · Temaya uygun kıyafet · Podyum ve jüri · Cilt bakımı · Gardırop</sub></p>
 
 ### İndir
 
